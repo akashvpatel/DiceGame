@@ -1,0 +1,75 @@
+body {
+    background-color: rgb(207, 124, 124);
+    align-items: center;
+    width: auto;
+}
+
+img {
+    width: 150px;
+
+}
+
+.title {
+    font-size: 300%;
+    margin-top: 2%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: antiquewhite;
+    font-size: 300%;
+
+}
+
+
+#dice {
+    padding: 2% 6%;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+p {
+    color: antiquewhite;
+    background-color: rgb(232, 139, 139);
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 2rem;
+}
+
+.main {
+
+    text-align: center;
+    margin-top: 2%;
+}
+
+.button {
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+}
+
+button {
+    background-color: #259029;
+    color: white;
+    
+    padding: 10px;
+    width: 10%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    cursor: pointer;
+    border: 10px;
+    opacity: 0.6                                                                                                                    ;
+    transition: 0.5;
+    text-decoration: none;
+}
+
+button:hover {
+    opacity: 2;
+}
